@@ -1,22 +1,16 @@
 ### Hey 👋 , I'm **Hasan**
 </br>
 
-## About me
-
 I'm interesting in with front-end and I'm currently doing an internship at an e-commerce company.
 
 ---
-</br>
 
 ### Contact me
-
 
 [<img width="22" src="https://unpkg.com/simple-icons@6.15.0/icons/linkedin.svg" />][Linkedin]
 
 [Linkedin]: https://www.linkedin.com/in/hasan-g%C3%BCder-3229a5174/
 
-
-</br>
 
 Techs I know and use
 
@@ -31,6 +25,7 @@ Techs I know and use
 <a href="https://testing-library.com/docs/react-testing-library/intro/"><img src="https://testing-library.com/img/octopus-128x128.png" alt="Jest.io" width="38"></a>
 <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="38"></a>
 <a href="https://firebase.google.com/"><img src="https://www.gstatic.com/devrel-devsite/prod/v08e2e903ad39eb3009107f1f989d23e4c4355077353141378a1120a265a09142/firebase/images/touchicon-180.png" alt="Firebase" width="38"></a>
+<a href="https://ant.design/"><img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="Firebase" width="38"></a>
 
 </br>
 
