@@ -1,7 +1,7 @@
 ### Hey 👋 , I'm **Hasan**
 </br>
 
-I'm interesting in with front-end (RaectJs).
+I'm interesting in with front-end (ReactJs).
 
 ---
 
