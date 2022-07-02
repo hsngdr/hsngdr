@@ -1,7 +1,7 @@
 ### Hey 👋 , I'm **Hasan**
 </br>
 
-I'm interesting in with front-end and I'm currently doing an internship at an e-commerce company.
+I'm interesting in with front-end (RaectJs).
 
 ---
 
