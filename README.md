@@ -9,7 +9,7 @@ I'm interesting in with frontend.
 
 [<img width="22" src="" />][Linkedin]
 
-[Linkedin]: https://www.linkedin.com/in/hasan-g%C3%BCder-3229a5174/
+[Linkedin]:
 
 
 Techs I know and use
