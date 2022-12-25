@@ -7,9 +7,9 @@ I'm interesting in with frontend.
 
 ### Contact me
 
-[<img width="22" src="" />][Linkedin]
+<!-- [<img width="22" src="" />][Linkedin]
 
-[Linkedin]:
+[Linkedin]: -->
 
 
 Techs I know and use
