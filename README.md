@@ -1,13 +1,13 @@
 ### Hey 👋 , I'm **Hasan**
 </br>
 
-I'm interesting in with front-end (ReactJs).
+I'm interesting in with frontend.
 
 ---
 
 ### Contact me
 
-[<img width="22" src="https://unpkg.com/simple-icons@6.15.0/icons/linkedin.svg" />][Linkedin]
+[<img width="22" src="" />][Linkedin]
 
 [Linkedin]: https://www.linkedin.com/in/hasan-g%C3%BCder-3229a5174/
 
